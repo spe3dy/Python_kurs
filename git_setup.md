@@ -1,4 +1,9 @@
+<h1> Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration</h1>
+# Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
+## Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
+### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
 #### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
+##### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
 <p>
 1. Github Account erstellen
 <p>
@@ -8,12 +13,13 @@
 <p>
 SSH - Key erstellen : 
 <p>
-Strg + r -> cmd
+<br>
+Strg + r -> cmd # Optional geht auch die Powershell
 <p>
-  sh-keygen ausfuehren ( Passwort festlegen )
-<p>
+sh-keygen ausfuehren ( Passwort festlegen )
 <p> cd .ssh/
 <p> more id_rsa.pub
+<br>
 <p> Die Ausgabe muss dann im Github unter Username - > Setting -> SSH & GPG Keys eingetragen werden
 <p> git commit -m "testing" #Das "testing" kann individuel umbenannt werden.
 <p> git branch -M main
