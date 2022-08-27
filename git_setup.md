@@ -1,11 +1,5 @@
-<h3> Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration</h3>
-# Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration<p>
-## Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration<p>
-### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration<p>
-#### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration<p>
-##### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration<p>
-
-in Visual Studio Code installiere Pakete:
+# Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
+- in Visual Studio Code installiere Pakete:
 <p>
 Git Graph<p>
 Git History<p>
