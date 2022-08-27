@@ -18,5 +18,5 @@ Strg + r -> cmd
 
 Bei veraenderungen:
 git add . # . bedeutet alles , es kann auch nur die eine Daten ausgewaehlt werden.
-git commig
+git commit
 git push
