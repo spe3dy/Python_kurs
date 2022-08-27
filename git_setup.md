@@ -28,7 +28,7 @@ sh-keygen ausfuehren ( Passwort festlegen )
 <p> more id_rsa.pub
 <hr>
 <p> Die Ausgabe muss dann im Github unter Username - > Setting -> SSH & GPG Keys eingetragen werden
-# Ab hier kann wieder alles im VSC gemacht werden. Das Terminal wird ueber  strg + shift + ö geoeffnet
+<hr> Ab hier kann wieder alles im VSC gemacht werden. Das Terminal wird ueber  strg + shift + ö geoeffnet
 <p> git commit -m "testing" #Das "testing" kann individuel umbenannt werden.
 <p> git branch -M main
 <p> git remote add origin git@github.com/yourusername/project.git
