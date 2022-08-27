@@ -7,9 +7,6 @@ In Visual Studio Code installiere Pakete:
 
 Github Account erstellen
 
- git config --global user.email "email_address"
-
- git config --global user.name "yourusername"   
 
 SSH - Key erstellen : 
 
@@ -24,6 +21,10 @@ sh-keygen ausfuehren ( Passwort festlegen )
  Die Ausgabe muss dann im Github unter Username - > Setting -> SSH & GPG Keys eingetragen werden
 
  Ab hier kann wieder alles im VSC gemacht werden. Das Terminal wird ueber  strg + shift + ö geoeffnet
+
+git config --global user.email "email_address"
+
+ git config --global user.name "yourusername"
 
  git commit -m "testing" # Das "testing" kann individuel umbenannt werden.
 
