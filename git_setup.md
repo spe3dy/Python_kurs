@@ -15,3 +15,8 @@ Strg + r -> cmd
  git remote add origin git@github.com/yourusername/project.git
  git push -u origin main
  
+
+Bei veraenderungen:
+git add . # . bedeutet alles , es kann auch nur die eine Daten ausgewaehlt werden.
+git commig
+git push
