@@ -37,6 +37,6 @@ git add . # . bedeutet alles , es kann auch nur die eine Daten ausgewaehlt werde
 
 git commit # aenderungen bestaetigen
 
-git push # laed alle andereungen hoch
+git push # laed alle andereungen hoch.
  
 
