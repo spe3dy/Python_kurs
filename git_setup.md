@@ -9,6 +9,8 @@ Github Account erstellen
 
  git config --global user.email "email_address"
 
+ git config --global user.name "yourusername"   
+
 SSH - Key erstellen : 
 
 windowskey + r -> cmd # Optional geht auch die Powershell
