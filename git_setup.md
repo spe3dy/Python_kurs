@@ -1,9 +1,9 @@
 <h1> Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration</h1>
-# Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
-## Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
-### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
-#### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
-##### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration
+# Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration<p>
+## Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration<p>
+### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration<p>
+#### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration<p>
+##### Anleitung zum Erstellen eines GitHub Accounts inklusive VisualstudioCode integration<p>
 <p>
 1. Github Account erstellen
 <p>
