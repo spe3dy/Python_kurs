@@ -1,0 +1,17 @@
+1. Github Account erstellen
+
+
+2. git config --global user.email "email_address"
+
+
+SSH - Key erstellen : 
+Strg + r -> cmd
+ sh-keygen ausfuehren ( Passwort festlegen )
+ cd .ssh/
+ more id_rsa.pub
+ Die Ausgabe muss dann im Github unter Username - > Setting -> SSH & GPG Keys eingetragen werden
+ git commit -m "testing" #Das "testing" kann individuel umbenannt werden.
+ git branch -M main
+ git remote add origin git@github.com/yourusername/project.git
+ git push -u origin main
+ 
